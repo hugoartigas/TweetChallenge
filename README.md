@@ -1,2 +1,2 @@
 # TweetChallenge
-To see the tweet challenge code, open folder "INF554 Project"
+To see the tweet challenge code and report, open folder "INF554 Project".
